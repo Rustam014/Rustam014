@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there, my name is Rustam 👋
+- 🔭 I’m currently working on historical map project
+- 🌱 I'm studying the possibilities of modern technologies
 <!--
 **Rustam014/Rustam014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
